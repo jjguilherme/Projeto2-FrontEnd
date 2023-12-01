@@ -1,0 +1,9 @@
+Conforme os resultados do projeto 1, decidi que era melhor alterar o html e css para que o projeto ficasse melhor,
+mesmo que não serão avaliados, reconheço que eu precisava melhora-lo para também explicar melhor como funciona a ONG ficticia
+que eu criei. Enfim, sobre o código decidi estilizar o css apenas numa página porque acredito que seja melhor, e também
+consegui reutilziar diversas funções nas páginas. Decidi por criar varíaveis de cores para facilitar o uso nas outras páginas
+e também um gradiente.
+
+Sobre o javascript, criei um menu responsivo que é quando um menu é acionado quando o ícone do menu é clicado. O código está
+bem estruturado, utiliza manipulação do DOM de forma eficiente e incorpora funcionalidades úteis para interação com o usuário
+armazenamento local e organização dos dados do formulário.
